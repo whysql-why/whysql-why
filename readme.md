@@ -1,1 +1,1 @@
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/whysql-why/count.svg)
